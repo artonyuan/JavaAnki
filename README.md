@@ -1,4 +1,4 @@
-# Anki-колоды для подготовки к Java-собеседованиям
+# Anki-колоды для подготовки к Java-собеседованиям (WIP)
 <p align="center">
   <img src="images/java.png">
   <br/>
